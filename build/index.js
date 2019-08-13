@@ -1,0 +1,1 @@
+"use strict";var _require=require("./common"),log=_require.log;module.exports.do=function(){log("This is me!")};
